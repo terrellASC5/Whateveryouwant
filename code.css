@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color: darkgoldenrod;
+    
+}
+#Y{
+    width: 800px;
+    length: 800px;
+    float: right;
+}
+
+header{
+    font-size: 80px;
+    text-align: center;
+    
+}
+#A{
+    text-align: right;
+}
+
+#R{
+    font-size: 20px;
+}
+#Q{
+    text-size: 20px;
+
+}
